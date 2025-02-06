@@ -27,10 +27,8 @@ Este módulo permite a los usuarios registrarse en Desechos Cero como compradore
   Aceptar pedidos: Este componente le permite a los repartidores buscar y aceptar pedidos en sus áreas. Gestionar sus ganancias y comunicarse con el comprador o el vendedro.
 
   ## Tecnologías
-
-Project Manager:
-
-[![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)<br>
-[![Whimsical](https://whimsical.com/)<br>
-[![Figma]([[https://www.google.com/sheets/about/](https://www.figma.com/es-es/)](https://www.figma.com/es-es/)]<br>
-[![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
+   - #### Whimsical
+   - #### Figma
+   - #### GitHub
+   - #### Photoshop
+   - #### Encuesta online
