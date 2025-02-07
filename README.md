@@ -40,6 +40,6 @@ Este módulo permite a los usuarios registrarse en Desechos Cero como compradore
 #### Equipo:
 Identificación del equipo: C23-23-m-nocode.
 Nombre del proyecto: Desperdicio Cero (wepapp)
-Nombre y Rol de los participantes activos: Brenda Emilce - Desarrollo nocode,<br>   
+Nombre y Rol de los participantes activos: Brenda Emilce - Desarrollo nocode<br>   
 Esperanza Zavalla - Diseñadora UX/UI // https://www.linkedin.com/in/esperanza-zavalla-4b163228b/ // https://www.behance.net/hopezv <br>
 María Sol Bilbao - Diseñadora UX/UI // https://www.linkedin.com/in/maria-sol-bilbao/ // https://www.behance.net/mariasolbilbao 
