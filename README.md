@@ -31,7 +31,15 @@ Este módulo permite a los usuarios registrarse en Desechos Cero como compradore
    - #### Figma
    - #### GitHub
    - #### Photoshop
+   - #### Adalo
    - #### Encuesta online
 
    - #### Demo: https://brenda-colques-team.adalo.com/e-commerce-app-app?target=56gwihm29nlbh59ag5xe4jscf&params=%7B%7D
    - #### Prototipo: https://www.figma.com/proto/Lwzr0voZ5ymmkTrIr7tGxM/C3-23-UXUI-nocode?node-id=1241-65677&t=MrDk9lfEB17QChHs-8&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1241%3A65677&show-proto-sidebar=1&hide-ui=1
+
+#### Equipo:
+Identificación del equipo: C23-23-m-nocode.
+Nombre del proyecto: Desperdicio Cero (wepapp)
+Nombre y Rol de los participantes activos: Brenda Emilce - Desarrollo nocode,<br>   
+Esperanza Zavalla - Diseñadora UX/UI // https://www.linkedin.com/in/esperanza-zavalla-4b163228b/ // https://www.behance.net/hopezv <br>
+María Sol Bilbao - Diseñadora UX/UI // https://www.linkedin.com/in/maria-sol-bilbao/ // https://www.behance.net/mariasolbilbao 
